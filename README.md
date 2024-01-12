@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on: Backend development, Deep Reinforcement learning
 - ⚡ Fun fact: ...I speak 5 languages(Korean, English, French, Chinese, German). Frankly, only 3 of them are good :D.
 - I'm looking for summer internship for Summer 2024
-- personal email:minsuk603@gmail.com
+- personal email:<a href="mailto:minsuk603@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="36" height="36" alt="Email" />
+</a>
 
 ## Language and Tools
 
