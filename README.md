@@ -5,9 +5,16 @@
 - 👯 I’m looking to collaborate on: Backend development, Deep Reinforcement learning
 - ⚡ Fun fact: ...I speak 5 languages(Korean, English, French, Chinese, German). Frankly, only 3 of them are good :D.
 - I'm looking for summer internship for Summer 2024
+
+## Reach me
+
+<a href="mailto:your-email@gmail.com">
     <img src="https://github.com/MK013467/icons/blob/main/gmail.svg" width="36" height="36" alt="Email" />
 </a>
-
+<a href="https://www.linkedin.com/in/minsok-kwon-178b38182/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MK013467/icons/blob/main/Linkedin.png" width="36" height="36" alt="LinkedIn" />
+</a>
+  
 ## Language and Tools
 
 <p align="left">
