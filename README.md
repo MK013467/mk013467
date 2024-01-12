@@ -1,7 +1,6 @@
 ### Hi there 👋I'm Minseok Kwon
 
-<!--
-**MK013467/mk013467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...I speak 5 languages(Korean, English, French, Chinese, German). Frankly, only 3 of them are good :D.
--->
+
