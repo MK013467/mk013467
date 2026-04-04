@@ -1,10 +1,12 @@
-### Hi there 👋I'm Minseok Kwon
+### Hi there 👋I'm Minseok KwonHi, I'm Minseok Kwon, a full-stack developer based in South Korea.
 
- Hi, I'm Minseok Kwon from South Korea. Currently, I study physics and math-cse in UCSD. I started to code and become passionate after I discovered that I can apply the same thinking process I used in physics and math and doing exiting things through programming. I'm interested in machine learning and also working on backend serverside technology.
-- 🌱 I’m currently learning: Deep learning, Neuron modelling
-- 👯 I’m looking to collaborate on: Backend development, Deep Reinforcement learning
-- I'm looking for summer internship for Summer 2024
-- ⚡ Fun fact: ...I speak 5 languages(Korean, English, French, Chinese, German). Frankly, only 3 of them are good :D.
+I build web applications using React, TypeScript, and NestJS. I have developed and deployed a forum platform with features such as authentication, pagination, and RESTful APIs.
+
+Through my projects, I’ve gained experience in handling real-world challenges like API design, state management, and deployment.
+
+I’m currently looking for opportunities where I can contribute as a developer and continue growing in a practical environment.
+
+I’m fluent in English and French, and currently learning German.
 
 
 ## Reach me
