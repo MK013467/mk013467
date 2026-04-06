@@ -1,4 +1,4 @@
-### Hi there 👋I'm Minseok KwonHi, I'm Minseok Kwon, a full-stack developer based in South Korea.
+### Hi there 👋I'm Minseok Kwonm a full-stack developer based in South Korea.
 
 I build web applications using React, TypeScript, and NestJS. I have developed and deployed a forum platform with features such as authentication, pagination, and RESTful APIs.
 
