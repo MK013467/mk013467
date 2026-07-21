@@ -22,6 +22,7 @@ React · TypeScript · GraphQL · Apollo · Node.js · NestJS · Prisma · Postg
 Korean · English · German (learning)
 
 ## Contact<a href="https://www.linkedin.com/in/minsok-kwon-178b38182/">
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     alt="LinkedIn"
