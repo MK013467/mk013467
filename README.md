@@ -4,22 +4,26 @@ I work with **React, TypeScript, GraphQL, Node.js, NestJS, Prisma, and PostgreSQ
 
 I enjoy understanding how systems work end to end—from user interfaces and state management to APIs, databases, and deployment.
 
-
-## Currently working with
-
-- React and TypeScript
-- GraphQL and Apollo
-- Node.js and NestJS
-- Prisma and PostgreSQL
-- AWS serveless architecture
-
 ## Tech
 
-React · TypeScript · GraphQL · Apollo · Node.js · NestJS · Prisma · PostgreSQL · Redis · AWS
+**Frontend**
+React · TypeScript · Apollo Client
 
-## Languages
+**Backend**
+Node.js · NestJS · GraphQL
 
-Korean · English · German (learning)
+**Database**
+PostgreSQL · Prisma · Redis
+
+**Infrastructure**
+AWS
+
+## Currently
+
+- Building full-stack projects with TypeScript
+- Contributing to open-source projects
+- Improving backend and database fundamentals
+
 
 
 ## Contact
