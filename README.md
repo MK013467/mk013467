@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Minseok Kwon
+Software Engineer focused on React and TypeScript.
 
-I work with **React, TypeScript, GraphQL, Node.js, NestJS, Prisma, and PostgreSQL**.
-
-I enjoy understanding how systems work end to end—from user interfaces and state management to APIs, databases, and deployment.
+I work across frontend and backend systems using GraphQL, Node.js,
+Prisma, and PostgreSQL.
 
 ## Tech
 
